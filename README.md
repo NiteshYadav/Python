@@ -1,9 +1,3 @@
-# Python
-Learning Python
+# Statistical computing with Python
 
-
-Hello!
-
-Just messing around. Nothing useful in here.
-
-Peace out!!!!!!
+This repo is for storing all my DS and ML related code!!
